@@ -9,3 +9,39 @@ Instructions
 Type a burger name into the app and add it.
 Burger will be added to the "MENU" section of the page.
 Select a burger you would like to Devour from the "MENU", click the "devour" button next to it, then burger will be moved to the "Devoured" section of the page.
+
+
+- MVC structure
+.
+├── config
+│   ├── connection.js
+│   └── orm.js
+│ 
+├── controllers
+│   └── burgers_controller.js
+│
+├── db
+│   ├── schema.sql
+│   └── seeds.sql
+│
+├── models
+│   └── burger.js
+│ 
+├── node_modules
+│ 
+├── package.json
+│
+├── public
+│   ├── assets
+│   │   ├── css
+│   │   │   └── burger_style.css
+│   │   └── img
+│   │       └── burger.png
+│   └── test.html
+│
+├── server.js
+│
+└── views
+    ├── index.handlebars
+    └── layouts
+        └── main.handlebars
