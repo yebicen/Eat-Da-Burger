@@ -1,7 +1,7 @@
 Heroku Links:
 https://fierce-caverns-54664.herokuapp.com/
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif
+
 
 Eat-Da-Burger
 This app utilize classic MVC structure, Handlebars, MySQL, Node and Express. In MYSQL, each burger has two values stored in database: name of the burger as a varchar, and devoured or not as a boolean(0 or 1). 
