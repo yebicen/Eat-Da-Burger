@@ -1,4 +1,4 @@
-![Alt Text](Bueger.gif)
+![Alt Text](burger.gif)
 
 
 Heroku Links:
